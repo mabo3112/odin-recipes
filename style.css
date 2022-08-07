@@ -1,0 +1,31 @@
+* {
+
+    background-color: rgb(26, 26, 27);
+
+}
+
+body {
+
+    color: white;
+
+}
+
+#title {
+
+    font-weight: bold;
+    color: white;
+    margin-left: 70px;
+    font-size: 40px;
+}
+
+.list {
+
+    color:crimson;
+    margin-left: 80px;
+}
+
+.links {
+
+    color: aqua;
+
+}
